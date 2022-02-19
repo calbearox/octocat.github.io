@@ -1,1 +1,1 @@
-console.log('This would be the main JS file.');
+rootProject.name ​=​ ​"​io/.github.https://maldit-dot.maldito-dot​"

@@ -1,0 +1,5 @@
+fun main() {
+   val kotlin = "🙂"
+   println(kotlin)
+}
+//https://maldit-dot.applicationkt%22

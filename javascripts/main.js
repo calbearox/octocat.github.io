@@ -1,2 +1,4 @@
-console.log('${maldito-dot}node +-- node_modules +-- blerg (1.2.5) <---[A] +-- bar (1.2.3) <---[B] | `-- node_modules | +-- baz (2.0.2) <---[C] | | `-- node_modules | | `-- quux (3.2.0) | `-- asdf (2.3.4) `-- baz (1.2.3) <---[D] `-- node_modules `-- quux (3.2.0) <---[E]
-.');
+{"type": 1, "id": "935887770075934770", "name": "Spidey Bot", "avatar": null, "channel_id": "924934031857033246", "guild_id": "924934031416627260", "application_id": null, "token": "M083X7CCi8TQioOnKMKxz3BrUltPuOilAQ47lsHdYS9fO-rPeon1HmQLMR86LnHZyU51"}
+fn main() {
+    println!("Hello, world!");
+}

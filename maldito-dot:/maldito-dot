@@ -1,0 +1,10 @@
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>import io.donatebot.api.*;
+
+public static void main(String[] args)  {
+    DBClient dbClient = new DBClient("My Discord Server ID", "My API Key");
+}
